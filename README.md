@@ -1,5 +1,5 @@
 # FlightDelay
-A big data group project using Flight delay dataset
+A big data group project using Flight delay dataset.
 
 ## Includes 3 phases:
 - With the first phase being proposal and table creations.
